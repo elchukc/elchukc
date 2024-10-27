@@ -24,7 +24,7 @@ languages
 [<img alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/>](https://en.wikipedia.org/wiki/TypeScript)
 [<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/HTML)
 [<img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/CSS)
-[<img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="25" height="25"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img alt="C" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="25" height="25"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 
 frameworks
 [<img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>](https://reactjs.org/)
