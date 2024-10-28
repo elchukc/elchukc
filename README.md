@@ -25,6 +25,7 @@ languages
 [<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/HTML)
 [<img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>](https://wikipedia.org/wiki/CSS)
 [<img alt="C" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="25" height="25"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img alt="Rust" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=230be6" width="25" height="25"/>](https://www.rust-lang.org/)
 
 frameworks
 [<img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>](https://reactjs.org/)
