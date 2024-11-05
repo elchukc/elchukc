@@ -30,12 +30,14 @@ languages
 frameworks
 [<img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>](https://reactjs.org/)
 [<img alt="Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="25" height="25"/>](https://tailwindcss.com/)
+[<img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="25px" height="25" />](https://flask.palletsprojects.com/en/stable/#)
 [<img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25px" height="25" />](https://nodejs.org/en)
 
 database and technologies
 [<img alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/>](https://aws.amazon.com/)
 [<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="25" height="25" />](https://www.docker.com/)
 [<img alt="Postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
 [<img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"/>](https://git-scm.com/)
 
 <!--
