@@ -37,7 +37,7 @@ database and technologies
 [<img alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/>](https://aws.amazon.com/)
 [<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="25" height="25" />](https://www.docker.com/)
 [<img alt="Postgres" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25px" height="25" />](https://www.mongodb.com/)
 [<img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25"/>](https://git-scm.com/)
 
 <!--
